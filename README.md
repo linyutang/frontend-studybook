@@ -10,3 +10,9 @@ Start up, For One piece!
 
 Leetcode: 141. Linked List Cycle
 [Code](./algorithm/leetcode/141_linked_list_cycle.js)
+
+**2021.12.12**
+Leetcode: 142. Linked List Cycle II
+[Code](./algorithm/leetcode/142_linked_list_cycle_2.js)
+
+
