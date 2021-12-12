@@ -16,3 +16,5 @@ Leetcode: 142. Linked List Cycle II
 [Code](./algorithm/leetcode/142_linked_list_cycle_2.js)
 
 
+Leetcode: 202. Happy Number
+[Code](./algorithm/leetcode/202_happy_number.js)
