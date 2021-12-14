@@ -20,3 +20,7 @@ Leetcode: 202. Happy Number
 **2021.12.13**
 Leetcode: 206. Reverse Linked List
 [Code](./algorithm/206_reverse_linked_list.js)
+
+**2021.12.14**
+Leetcode: 92. Reverse Linked List II
+[Code](./algorithm/92_reverse_linked_list_2.js)
